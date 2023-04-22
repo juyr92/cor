@@ -34,7 +34,7 @@
                         bindings = <
    &kp TAB    &kp N1       &kp N2       &kp UP       &kp N4       &kp N5         &kp PLUS   &kp N7   &kp N8 &kp N9    &kp N0 &kp BSPC
    &bt BT_CLR &bt BT_SEL 0 &kp LEFT     &kp DOWN     &kp RIGHT    &kp LSHFT      &kp MINUS &kp N4 &kp N5 &kp N6 &kp LBKT &kp RBKT
-   &kp LSHFT  &trans       &trans       &trans       &trans       &trans         &kp STAR   &kp N1   &kp N2 &kp N3    &kp GRAVE &kp BSLH
+   &kp LSHFT  &trans       &trans       &kp UP       &trans       &trans         &kp STAR   &kp N1   &kp N2 &kp N3    &kp GRAVE &kp BSLH
                           	        &kp LGUI     &trans       &kp SPACE      &kp SLASH  &kp EQUAL   &kp RALT
                         >;
                 };
